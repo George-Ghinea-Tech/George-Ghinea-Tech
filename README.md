@@ -37,9 +37,9 @@ I'm passionate learner focused on building functional and interactive applicatio
 
   Thank you for spending your time on my profile.
 
-
-
-
+<!--
+ ### Projects and Activities:
+-->
 <!--
 **George-Ghinea-Tech/George-Ghinea-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
